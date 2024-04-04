@@ -1,0 +1,116 @@
+"IDM","NOMM","MESURE","IDR"
+100006,"La pluviométrie (en ml)",20,1
+100007,"Force de vent (en km/h) vers Nord-Est",45,1
+100008,"ensoleillement (en W/m2)",500,1
+100010,"La pluviométrie (en ml)",5,10
+100012,"La pluviométrie (en ml)",22,2
+100013,"Force de vent (en km/h) vers Ouest",55,2
+100014,"ensoleillement (en W/m2)",600,14
+100016,"La pluviométrie (en ml)",30,16
+100017,"Force de vent (en km/h) vers Nord",20,19
+100018,"ensoleillement (en W/m2)",450,2
+100020,"La pluviométrie (en ml)",0,19
+100022,"La pluviométrie (en ml)",18,22
+100023,"Force de vent (en km/h) vers Est",60,23
+100024,"ensoleillement (en W/m2)",520,19
+100026,"La pluviométrie (en ml)",25,26
+100027,"Force de vent (en km/h) Sud-Ouest ",35,27
+100028,"ensoleillement (en W/m2)",580,28
+100030,"La pluviométrie (en ml)",12,30
+100031,"Force de vent (en km/h) vers Nord",50,31
+100032,"ensoleillement (en W/m2)",500,32
+100034,"La pluviométrie (en ml)",15,6
+100035,"Force de vent (en km/h) vers Est",45,6
+100036,"ensoleillement (en W/m2)",550,6
+100038,"La pluviométrie (en ml)",10,6
+100039,"Force de vent (en km/h) vers Ouest",55,39
+100040,"ensoleillement (en W/m2)",530,40
+100042,"La pluviométrie (en ml)",17,42
+100043,"Force de vent (en km/h) vers Nord-Est",40,43
+100044,"ensoleillement (en W/m2)",470,44
+100046,"La pluviométrie (en ml)",20,46
+100047,"Force de vent (en km/h) vers Sud",60,47
+100048,"ensoleillement (en W/m2)",510,48
+100050,"La pluviométrie (en ml)",5,50
+100051,"Force de vent (en km/h) Ouest",30,51
+100052,"ensoleillement (en W/m2)",560,52
+100054,"La pluviométrie (en ml)",14,54
+100055,"Force de vent (en km/h) vers Nord",50,55
+100056,"ensoleillement (en W/m2)",590,56
+100058,"La pluviométrie (en ml)",18,58
+100059,"Force de vent (en km/h) vers Sud-Est",45,59
+100060,"ensoleillement (en W/m2)",500,60
+100062,"La pluviométrie (en ml)",10,62
+100063,"Force de vent (en km/h) et Nord-Ouest",55,63
+100064,"ensoleillement (en W/m2)",550,64
+100066,"La pluviométrie (en ml)",25,66
+100067,"Force de vent (en km/h) vers Est",40,67
+100068,"ensoleillement (en W/m2)",580,68
+100070,"La pluviométrie (en ml)",15,70
+100071,"Force de vent (en km/h) vers Sud",50,71
+100072,"ensoleillement (en W/m2)",520,72
+100074,"La pluviométrie (en ml)",20,74
+100075,"Force de vent (en km/h) vers Ouest",30,75
+100076,"ensoleillement (en W/m2)",540,76
+100078,"La pluviométrie (en ml)",5,78
+100079,"Force de vent (en km/h) vers Nord",60,79
+100080,"ensoleillement (en W/m2)",500,80
+100082,"La pluviométrie (en ml)",22,82
+100083,"Force de vent (en km/h) vers Sud-Est",35,83
+100084,"ensoleillement (en W/m2)",560,8
+100086,"La pluviométrie (en ml)",18,8
+100087,"Force de vent (en km/h) vers Nord",40,8
+100088,"ensoleillement (en W/m2)",500,88
+100090,"La pluviométrie (en ml)",10,90
+100091,"Force de vent (en km/h) vers Ouest",50,91
+100092,"ensoleillement (en W/m2)",550,92
+100094,"La pluviométrie (en ml)",25,15
+100095,"Force de vent (en km/h) vers Est",30,15
+100096,"ensoleillement (en W/m2)",570,15
+100098,"La pluviométrie (en ml)",15,32
+100099,"Force de vent (en km/h) vers  Sud-Ouest",45,32
+100100,"ensoleillement (en W/m2)",530,32
+200100,"La température (en degrés Celsius)",3,37
+200101,"La température (en degrés Celsius)",18,37
+200102,"La température (en degrés Celsius)",2,38
+200103,"La température (en degrés Celsius)",20,38
+200104,"La température (en degrés Celsius)",6,39
+200105,"La température (en degrés Celsius)",22,39
+200106,"La température (en degrés Celsius)",5,40
+200107,"La température (en degrés Celsius)",21,40
+200108,"La température (en degrés Celsius)",4,41
+200109,"La température (en degrés Celsius)",19,41
+200110,"La température (en degrés Celsius)",7,42
+200111,"La température (en degrés Celsius)",23,42
+200112,"La température (en degrés Celsius)",8,43
+200113,"La température (en degrés Celsius)",24,43
+200114,"La température (en degrés Celsius)",3,44
+200115,"La température (en degrés Celsius)",17,44
+200116,"La température (en degrés Celsius)",2,45
+200117,"La température (en degrés Celsius)",16,45
+200118,"La température (en degrés Celsius)",1,46
+200119,"La température (en degrés Celsius)",15,46
+200120,"La température (en degrés Celsius)",8,47
+200121,"La température (en degrés Celsius)",18,47
+200122,"La température (en degrés Celsius)",9,48
+200123,"La température (en degrés Celsius)",25,48
+200124,"La température (en degrés Celsius)",0,49
+200125,"La température (en degrés Celsius)",14,49
+200126,"La température (en degrés Celsius)",5,50
+200127,"La température (en degrés Celsius)",20,50
+200128,"La température (en degrés Celsius)",3,51
+200129,"La température (en degrés Celsius)",17,51
+200130,"La température (en degrés Celsius)",1,52
+200131,"La température (en degrés Celsius)",19,52
+200132,"La température (en degrés Celsius)",6,53
+200133,"La température (en degrés Celsius)",22,53
+200134,"La température (en degrés Celsius)",2,54
+200135,"La température (en degrés Celsius)",18,54
+200136,"La température (en degrés Celsius)",3,55
+200137,"La température (en degrés Celsius)",17,55
+200138,"La température (en degrés Celsius)",1,56
+200139,"La température (en degrés Celsius)",16,56
+200140,"La température (en degrés Celsius)",0,57
+200141,"La température (en degrés Celsius)",15,57
+200142,"La température (en degrés Celsius)",5,58
+200143,"La température (en degrés Celsius)",21,58
